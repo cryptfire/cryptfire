@@ -5,6 +5,11 @@ Features like Auth (now including SIWE), Databases, Realtime, Mailgun, Twilio, 2
 
 Utilize our open source code base for highest expectations and great design. [Developer Login](https://ex.cryptfire.io) or [Install Instructions](https://github.com/cryptfire)
 
+<br />
+
+![logo](https://github.com/cryptfire/cryptfire/assets/114028070/f7c71b88-cc5d-4e90-8e36-41b73a945c0e)
+
+
 ## Quick start
 
 This repository is still empty as it will host our own BaaS solution. Please use [Appwrite](https://github.com/cryptfire/cryptfire-appwrite) for now.
