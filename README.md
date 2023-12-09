@@ -11,7 +11,20 @@ Cryptfire sets up a MongoDB, Nginx, knative Cluster as well as an Admin Dashboar
 
 ## Quick start
 
-This repository is still empty as it will host our own BaaS solution. Please use [Appwrite](https://github.com/cryptfire/cryptfire-appwrite) for now.
+❗ This repository is still empty as it will host our own BaaS solution. Please use [Appwrite](https://github.com/cryptfire/cryptfire-appwrite) for now.
+
+The goal is to provide a Proof-of-concept Docker install but to guide you through the more sophisticated self-hosting installation neatly.
+
+```bash
+docker run -it --rm \
+    --volume /var/run/docker.sock:/var/run/docker.sock \
+    --volume "$(pwd)"/cryptfire:/usr/src/code/cryptfire:rw \
+    --entrypoint="install" \
+    zdanl/cryptfire:0.0.1
+```
+
+Self-hosted Engineers Installation
+
 
 ## Maintainers
 
