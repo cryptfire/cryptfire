@@ -1,6 +1,6 @@
 # Meet Cryptfire
 
-Cryptfire sets up a MongoDB, Nginx, knative Cluster as well as an Admin Dashboard and a sample NextJS-Auth application.
+Cryptfire sets up a MongoDB, Nginx, knative Cluster as well as an Admin Dashboard and a sample NextJS-Auth application. A visual tool allows you to create and manage your databases, collections and attributes. 
 
 Utilize [Appwrite](https://github.com/appwrite/appwrite) for highest expectations and great design while this is still in the works.
 
