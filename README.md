@@ -1,9 +1,8 @@
 # Meet Cryptfire
 
-We are a providing the self-hosted infrastructure and enrich the code base of superior self-hosted Backend as a Service platforms, your corresponding Frontends, and a Capsule for Benchmarking & Browser Automation Testing, scaling massively. Our goal is to provide web3- & crypto readyness, and serve the needs of traditional web2 apps too. 
-Features like Auth (now including SIWE), Databases, Realtime, Mailgun, Twilio, 2FA, etc. are included. Our included Serverless stack is excellent. Most importantly, you do not need to develop locally anymore, but can do it public/live for cheap, then, scale up to production. __You have root access to your infrastructure at all teams__
+Cryptfire sets up a MongoDB, Nginx, knative Cluster as well as an Admin Dashboard and a sample NextJS-Auth application.
 
-Utilize [Appwrite](https://github.com/cryptfire/appwrite) for highest expectations and great design. [Developer Login](https://ex.cryptfire.io) or [Install Instructions](https://github.com/cryptfire)
+Utilize [Appwrite](https://github.com/appwrite/appwrite) for highest expectations and great design while this is still in the works.
 
 <br />
 
