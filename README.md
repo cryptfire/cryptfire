@@ -15,6 +15,8 @@ Cryptfire sets up a MongoDB, Nginx, knative Cluster as well as an Admin Dashboar
 
 The goal is to provide a Proof-of-concept Docker install but to guide you through the more sophisticated self-hosting installation neatly.
 
+
+- One line install:
 ```bash
 docker run -it --rm \
     --volume /var/run/docker.sock:/var/run/docker.sock \
@@ -23,7 +25,7 @@ docker run -it --rm \
     zdanl/cryptfire:0.0.1
 ```
 
-Self-hosted Engineers Installation
+- Self-hosted Engineers Installation
 
 
 ## Maintainers
